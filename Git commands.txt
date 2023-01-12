@@ -1,0 +1,9 @@
+git clone
+git branch
+git ststus
+git checkout
+touch (+name)
+cat (+name)
+git add
+git push
+git commit
