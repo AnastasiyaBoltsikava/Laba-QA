@@ -1,0 +1,2 @@
+# Laba-QA
+Lecture
